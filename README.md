@@ -2,7 +2,7 @@
 
 This project is a simple chat interface built using **React** and **TailwindCSS**, designed to display chat messages grouped by date (e.g., "1 day ago", "2 days ago"). The chat also includes hoverable options for **editing** and **deleting** individual chats.
 
-![UI Preview](data1.png)
+[UI Preview](./public/data1.png)
 
 ## Features
 
@@ -75,7 +75,7 @@ This project is a simple chat interface built using **React** and **TailwindCSS*
 2. In the `README.md`, update the placeholder:
 
    ```markdown
-   ![UI Preview](public/data1.png)
+   [UI Preview](./public/data1.png)
    ```
 
 This will display the image in the README.

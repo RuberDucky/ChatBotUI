@@ -6,6 +6,7 @@ import ChatPage from "./pages/ChatPage";
 import HomePage from "./pages/HomePage";
 
 const App = () => {
+// const [isAuthenticaed, setAuthenticated] = useState(false);
   return (
     <Router>
       <div className="flex h-screen w-screen bg-[#F4F4F4]">
